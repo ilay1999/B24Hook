@@ -1,0 +1,45 @@
+* {											
+	box-sizing: border-box;
+}
+
+a{
+	text-decoration: none;
+}
+
+p{
+	padding: 1%;
+}
+
+img{
+	width: 130px;
+	height: 150px;
+
+	border: 2px solid #E21F4D;
+	border-radius: 25px;
+	padding: 2%;
+	margin: 3%;
+}
+
+input{
+	text-align: center;
+	border-radius: 20px;
+}
+
+body{
+	text-align: center;
+	align-content: center;
+	text-align: center;
+	align-content: center;
+	flex-direction: column, center;
+
+	background-color: #f5f0f2;
+}
+
+.main{
+	display: flex;
+	flex-direction: column;
+
+	align-self: center;
+	align-items: center;
+	align-content: center;
+}
